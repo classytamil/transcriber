@@ -21,7 +21,7 @@ A **Streamlit application** that captures audio from your microphone and transcr
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/yourusername/realtime-transcription.git
+git clone https://github.com/classytamil/transcriber.git
 cd realtime-transcription
 ```
 
